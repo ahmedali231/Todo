@@ -1,0 +1,34 @@
+body{
+  background-color: #363231;
+justify-content: center;
+    text-align:center;
+}
+.main{
+  width: 400px;
+    height: 500px;
+  border: thick double black;
+  text-align: center;
+background-color: white;
+
+}
+input{
+ background-color: black;
+  color: white;
+  border-radius: 5px;
+height: 40px;    
+}
+li{
+color: white;
+font-size: 20px;
+widht: 60%;
+height: 25px;
+background-color: #423b2a;
+}
+ul{
+list-style-type:none;
+}
+button{
+background-color: #f5f2eb;
+color: balck;
+width:100px;
+}
